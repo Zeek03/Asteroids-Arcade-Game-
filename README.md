@@ -23,7 +23,7 @@ This repository contains the Python code for a classic Asteroids arcade game. Pl
 
 1. **Run the game:**
    ```bash
-   python main.py
+   python Shrump.py
    ```
 
 **Controls:**
