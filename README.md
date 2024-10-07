@@ -16,7 +16,7 @@ This repository contains the Python code for a classic Asteroids arcade game. Pl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Zeek03/Asteriods-Arcade-Game.git
+   git clone https://github.com/Zeek03/Asteriods-Arcade-Game
    ```
 
 **Usage:**
